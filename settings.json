@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "smallsmpp.aternos.me",
+    "port": 62516,
     "version": "",
     "try-creative": false
   },
